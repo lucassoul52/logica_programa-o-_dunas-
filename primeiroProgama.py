@@ -1,5 +1,5 @@
 #utilizando a variavel n1, recebendo a função int e depois a função input recebendo a fala digite um número.
-n1 = int(input('Diga um númer:'))
+n1 = int(input('Diga um número:'))
 # utilizando a variavel n2, recebendo a função int e depois a função input recebendo a fala digite outro45 número.
 n2 = int(input('Digite outro número:'))
 # usando função soma para soma as variaveis de n1 e n2.
